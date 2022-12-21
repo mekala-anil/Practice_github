@@ -1,0 +1,5 @@
+We need Master some technologies
+
+For front end : React JS/ Angular JS
+For Back end : Java, Spring Boot
+Database : MySQL
