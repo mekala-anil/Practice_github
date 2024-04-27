@@ -1,7 +1,7 @@
 We need Master some technologies
 
-For front end : React JS/ Angular JS
-For Back end : Java, Spring Boot
+For front end : React JS
+For Back end : Java, Spring Boot, Microservice
 Database : MySQL
 
 Master a IDE for Development
